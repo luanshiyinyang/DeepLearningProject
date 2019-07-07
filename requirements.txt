@@ -1,0 +1,4 @@
+gensim
+scikit-learn
+numpy
+geopandas
