@@ -204,7 +204,7 @@
   - 通过调控上述两个风格的比例，设定summer风格100%，结果如下。
     - ![](https://img-blog.csdnimg.cn/20190730223319277.png)
   - 通过循环调控夏天风格的比例，产生多幅图像，组合形成动态图，如下。
-    - ![]()
+    - ![](https://ws1.sinaimg.cn/large/006omUvnly1g5i9za7cfag30kk0d0qvb.gif)
 ## 补充说明
 - 参考书籍《深度学习实战：Deep Learning Cookbook》。
 - 具体项目代码上传至我的Github，欢迎Star或者Fork。
