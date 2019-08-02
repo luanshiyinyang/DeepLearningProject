@@ -1,4 +1,4 @@
-# 词嵌入计算文本相似性
+# 使用词嵌入计算文本相似性
 @[toc]
 ## 简介
 - 利用词嵌入实现文本之间的相似性计算等操作。
@@ -126,5 +126,5 @@
 	- 语义接近给定语义的单词的国家被高亮显示。
 ## 补充说明
 - 参考书籍《深度学习实战：Deep Learning Cookbook》。
-- 具体项目代码上传至我的Github，欢迎Star或者Fork。
-- 如有错误，欢迎指正。
+- 具体项目代码上传至[我的Github](https://github.com/luanshiyinyang/DeepLearningProject/tree/master/TextSimilarity)，欢迎Star或者Fork。
+- 博客同步至[个人博客网站](https://luanshiyinyang.github.io)，欢迎查看。
